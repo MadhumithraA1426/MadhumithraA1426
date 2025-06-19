@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MadhumithraA1426
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python language
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kit27.cse26@gmail.com
+- 📫 How to reach me madhumithraoffcl@gmail.com
 - 😄 Pronouns: she 
 - ⚡ Fun fact: girl with humour sense
 
