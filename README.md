@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @MadhumithraA1426
+- 👋 Hello, Maddy here
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me madhumithraoffcl@gmail.com
-- 😄 Pronouns: she 
-- ⚡ Fun fact: girl with humour sense
+- ⚡ Fun fact: Training model is better than training people
 
 <!---
 MadhumithraA1426/MadhumithraA1426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
