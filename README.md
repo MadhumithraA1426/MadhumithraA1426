@@ -1,3 +1,6 @@
+# Welcome to My GitHub Profile!
+![Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+I love coding and creating new projects!
 - 👋 Hello, Maddy here
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development 
