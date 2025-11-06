@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-![Coding](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="800" height="300"/>
+
 
 ## About Me
 
@@ -27,9 +28,9 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile) - Let's connect professionally.
-- [Portfolio](https://yourportfolio.com) - Explore my projects and blogs.
-- [Email](mailto:your.email@example.com) - Feel free to reach out!
+- [LinkedIn](https://www.linkedin.com/in/madhu-mithra-a-75926a2a6/) - Let's connect professionally.
+- [Portfolio](https://madhumithraa1426.github.io/portfolio_/) - Explore my projects and blogs.
+- [Email](mailto:madhumithraoffcl@gmail.com) - Feel free to reach out!
 
 ---
 
