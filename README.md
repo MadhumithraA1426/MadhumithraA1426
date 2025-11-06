@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-![Coding](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112 width="200")
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="200"/>
 I love coding and creating new projects!
 - 👋 Hello, Maddy here
 - 👀 I’m interested in coding
