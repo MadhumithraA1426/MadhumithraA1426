@@ -29,6 +29,23 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a>
 </p>
 
+## My Coding Platforms
+
+<p align="center">
+  <a href="https://www.codechef.com/users/madhumithra026" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codechef" alt="CodeChef" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/Madhu_mithra_1426/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/kit27_cse26" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/madhumithqi6o/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=geekforgeeks" alt="GeeksforGeeks" height="40"/>
+  </a>
+</p>
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/madhu-mithra-a-75926a2a6/) - Let's connect professionally.
