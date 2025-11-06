@@ -36,13 +36,13 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
     <img src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" alt="CodeChef" height="40"/>
   </a>
   <a href="https://leetcode.com/u/Madhu_mithra_1426/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/kit27_cse26" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="HackerRank" height="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/madhumithqi6o/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=geekforgeeks" alt="GeeksforGeeks" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="GeeksforGeeks" height="40"/>
   </a>
 </p>
 
