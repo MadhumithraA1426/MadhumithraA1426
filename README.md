@@ -24,6 +24,9 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=c,cplusplus" alt="C & C++" height="40"/></a>
   <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a>
 </p>
 
 ## Connect with Me
