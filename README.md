@@ -45,7 +45,7 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
     <img src="https://img.icons8.com/?size=100&id=34SXccVSW7O5&format=png&color=000000" alt="GeeksforGeeks" height="40"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/Madhumithra" target="_blank">
-    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code360" height="40"/>
+    <img src="https://files.codingninjas.com/cnlogo-32874.png" alt="Code360" height="40"/>
   </a>
 </p>
 
