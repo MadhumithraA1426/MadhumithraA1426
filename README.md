@@ -33,7 +33,7 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
 
 <p align="center">
   <a href="https://www.codechef.com/users/madhumithra026" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codechef" alt="CodeChef" height="40"/>
+    <img src="[https://skillicons.dev/icons?i=codechef](https://icons8.com/icon/LnZMjt9rZC3d/codechef)" alt="CodeChef" height="40"/>
   </a>
   <a href="https://leetcode.com/u/Madhu_mithra_1426/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/>
