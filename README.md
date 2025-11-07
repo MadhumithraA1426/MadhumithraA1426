@@ -49,7 +49,7 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/madhu-mithra-a-75926a2a6/) - Let's connect professionally.
-- [Portfolio](https://madhumithraa1426.github.io/portfolio_/) - Explore my projects and blogs.
+- [Portfolio](https://madhu-portfolio-eta.vercel.app/) - Explore my projects and blogs.
 - [Email](mailto:madhumithraoffcl@gmail.com) - Feel free to reach out!
 
 ---
