@@ -46,6 +46,11 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
   </a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MadhumithraA1426&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MadhumithraA1426&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhumithraA1426&layout=compact&theme=dark)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/madhu-mithra-a-75926a2a6)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhumithraoffcl@gmail.com)
