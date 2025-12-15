@@ -56,7 +56,7 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhumithraoffcl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhumithraA1426)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Madhu_mithra_1426)
-[![CodeChef](https://img.shields.io/badge/CodeChef-FFA116?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/madhumithra026)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/madhumithra026)
 
 ---
 
