@@ -33,6 +33,96 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+# 🚀 Projects Showcase
+
+📌 Below are some of my academic and personal projects, categorized by domain to highlight my experience across **AI/ML, Full Stack, and IoT**.
+
+---
+
+## 🤖 Machine Learning / AI Projects
+
+<table>
+<tr>
+<td align="center" width="33%">
+🤖🩺 <b>AI Copilot for Elder Health Monitoring</b><br/>
+<sub>Real-time health tracking and intelligent alerts for elderly care</sub>
+</td>
+
+<td align="center" width="33%">
+🫁 <b>Lung Cancer Detection</b><br/>
+<sub>Machine learning–based medical image analysis for early diagnosis</sub>
+</td>
+
+<td align="center" width="33%">
+📝 <b>Text Summarizer</b><br/>
+<sub>NLP model to generate concise and meaningful summaries</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+📚 <b>AI Essay Grader</b><br/>
+<sub>Automated essay evaluation using NLP and ML techniques</sub>
+</td>
+
+<td align="center" width="33%"></td>
+<td align="center" width="33%"></td>
+</tr>
+</table>
+
+---
+
+## 🌐 Full Stack Development Projects
+
+<table>
+<tr>
+<td align="center" width="33%">
+🍽️ <b>Excess Food Management System</b><br/>
+<sub>Platform to connect food donors with NGOs and reduce food waste</sub>
+</td>
+
+<td align="center" width="33%">
+🎓 <b>Infinity Academy Website</b><br/>
+<sub>Responsive educational website with modern UI</sub>
+</td>
+
+<td align="center" width="33%">
+✅ <b>To-Do List Application</b><br/>
+<sub>Task management app with CRUD functionality</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+🌱 <b>Seed Store</b><br/>
+<sub>E-commerce platform for agricultural products</sub>
+</td>
+
+<td align="center" width="33%">
+🎨 <b>Portfolio Website</b><br/>
+<sub>Personal portfolio showcasing skills and projects</sub>
+</td>
+
+<td align="center" width="33%"></td>
+</tr>
+</table>
+
+---
+
+## 🌐 Internet of Things (IoT) Projects
+
+<table>
+<tr>
+<td align="center" width="50%">
+💊 <b>Smart Pill Box for Elderly</b><br/>
+<sub>IoT-based medication reminder and monitoring system</sub>
+</td>
+
+<td align="center" width="50%"></td>
+</tr>
+</table>
+
+---
 
 
 # 📊 GitHub Stats:
