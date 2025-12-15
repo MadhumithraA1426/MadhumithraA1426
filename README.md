@@ -46,11 +46,12 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
   </a>
 </p>
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/madhu-mithra-a-75926a2a6/) - Let's connect professionally.
-- [Portfolio](https://madhu-portfolio-eta.vercel.app/) - Explore my projects and blogs.
-- [Email](mailto:madhumithraoffcl@gmail.com) - Feel free to reach out!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/madhu-mithra-a-75926a2a6)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhumithraoffcl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhumithraA1426)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Madhu_mithra_1426)
+[![CodeChef](https://img.shields.io/badge/CodeChef-FFA116?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/madhumithra026)
 
 ---
 
