@@ -58,3 +58,6 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
 
 [![](https://visitcount.itsvg.in/api?id=MadhumithraA1426&icon=5&color=6)](https://visitcount.itsvg.in)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
