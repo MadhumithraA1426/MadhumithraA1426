@@ -61,4 +61,4 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
   <i>Madhu Mithra</i>
 </p>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=MadhumithraA1426&style=for-the-badge)
