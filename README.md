@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="800" height="300"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maddy%20here" alt="Maddy"
 
 
 ## About Me
