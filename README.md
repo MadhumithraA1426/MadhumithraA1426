@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maddy%20here" alt="Maddy"
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maddy%20here" alt="Maddy">
 
 
 ## About Me
