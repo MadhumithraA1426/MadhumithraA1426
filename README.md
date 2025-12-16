@@ -65,6 +65,11 @@ I am a passionate Computer Science Engineering student in my 3rd year, deeply en
 <sub>Automated essay evaluation using NLP and ML techniques</sub>
 </td>
 
+<td align="center" width="33%">
+👨🏻‍🦯‍➡️ <b>SDG-10 Inclusive assist for disabled</b><br/>
+<sub>Converts pdf to summary and downloadable audio with history</sub>
+</td>
+
 <td align="center" width="33%"></td>
 <td align="center" width="33%"></td>
 </tr>
